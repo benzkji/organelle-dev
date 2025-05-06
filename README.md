@@ -1,5 +1,9 @@
 # organelle development notes
 
+## Questions
+
+- does ORAC pass along MIDI CC?
+
 ## Links
 
 ## Basics
