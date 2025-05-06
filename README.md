@@ -2,6 +2,11 @@
 
 ## Links
 
+## Basics
+
+- https://forum.critterandguitari.com/t/how-to-make-patches/2611/7
+
+
 ### ORAC
 
 - https://patchstorage.com/platform/orac/
