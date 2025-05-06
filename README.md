@@ -12,6 +12,7 @@
 - https://patchstorage.com/platform/orac/
 - https://patchstorage.com/orac-2-0-for-organelle/
 - [ORAC wiki](https://github.com/TheTechnobear/Orac/wiki)
+- [Create ORAC modules](https://www.youtube.com/watch?v=ilHzy4mNu3w)
 - [ORAC developer guide](https://forum.critterandguitari.com/t/orac-module-developers-guide/2744)
 
 
